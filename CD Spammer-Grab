@@ -1,0 +1,3 @@
+chmod +x *
+./auto-install.sh
+python2 spammer.py --delay 10
